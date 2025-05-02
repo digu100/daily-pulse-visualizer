@@ -1,6 +1,5 @@
 
 import React, { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
 import { 
   LineChart, 
   Line, 
@@ -13,6 +12,7 @@ import {
   Legend, 
   ResponsiveContainer 
 } from 'recharts';
+import { motion, AnimatePresence } from 'framer-motion';
 
 // All-in-one Habit Tracker App
 
